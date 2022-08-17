@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World 👋
 
 - 🔭 Trabalhando com T.I
 - 🌱 Estudante de programação Web
@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/n0xONwithPy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0xONwithPy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0xONwithPy&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0xONwithPy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br>
@@ -28,6 +28,8 @@
 <div>
  <a href="https://discord.gg/KbX5y3dG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/n0xONwithPy/n0nONwithPy/blob/output/github-contribution-grid-snake.svg)
+ <br><br>
+ 
+  ![Snake](https://github.com/n0xONwithPy/n0xONwithPy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
