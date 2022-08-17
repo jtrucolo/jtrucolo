@@ -28,7 +28,7 @@
 <div>
  <a href="https://discord.gg/KbX5y3dG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
- <br><br>
+ <br>
  
  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
