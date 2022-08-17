@@ -18,9 +18,8 @@
   <img align="center" alt="n0x-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="n0x-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="n0x-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="n0x-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="n0x-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
-  <img align="right" alt="n0x-pic" height="150" width="150" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
 </div>
 </div>
 
@@ -29,6 +28,6 @@
 <div>
  <a href="https://discord.gg/KbX5y3dG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-    ![Snake animation](https://github.com/n0xONwithPy/n0xONwithPy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/n0xONwithPy/n0nONwithPy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
