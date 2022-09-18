@@ -1,7 +1,7 @@
 ### Hello, World 👋
 
-- 🔭 Trabalhando com T.I
-- 🌱 Estudante de programação Web
+- 🔭 Working with I.T
+- 🌱 Web Programming student
 
 <br>
 
