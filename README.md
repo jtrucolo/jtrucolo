@@ -1,8 +1,5 @@
 ### Hello, World 👋
 
-- 🔭 Working with I.T
-- 🌱 Web Programming student
-
 <br>
 
 <div align="center">
